@@ -1,0 +1,9 @@
+ Agent  nned to find the solution for Timeout while downloading the file from blob
+
+
+===============================================================
+
+need to work on micro frontend with React , angular
+
+
+===================================================================
